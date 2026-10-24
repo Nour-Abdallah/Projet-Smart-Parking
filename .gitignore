@@ -1,0 +1,5 @@
+.pio/ 
+build/ 
+*.mp4 
+*.zip 
+*.parquet 
